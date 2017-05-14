@@ -1,5 +1,6 @@
 package com.shardxi.overpower.proxy;
 
-public abstract class Commonproxy implements Iproxy
+public class Commonproxy implements Iproxy
 {
+
 }

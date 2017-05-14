@@ -1,7 +1,5 @@
 package com.shardxi.overpower.reference;
 
-import scala.tools.nsc.doc.model.Public;
-
 public class Reference
 {
     public static final String MOD_ID = "overpower";
