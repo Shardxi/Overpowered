@@ -1,0 +1,16 @@
+[
+{
+  "modid": "overpower",
+  "name": "Over Power",
+  "description": "Over Power All Teh Things!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["shardxi"],
+  "credits": "The forge guys, and all the modders who helped me though this nightmeare.. i mean learning experience",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

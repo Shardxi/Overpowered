@@ -1,6 +1,6 @@
 package com.shardxi.overpower;
 
-import com.shardxi.overpower.configeration.ConfigurationHandler;
+import com.shardxi.overpower.handler.ConfigurationHandler;
 import com.shardxi.overpower.proxy.Iproxy;
 import com.shardxi.overpower.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class overpower
 
 {
